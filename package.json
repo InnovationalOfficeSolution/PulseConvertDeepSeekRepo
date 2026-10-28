@@ -1,0 +1,32 @@
+{
+  "name": "dsh-plugin-pulse-convert",
+  "version": "1.0.0",
+  "description": "Pulse Convert MCP plugin for DeepSeek Harness (DSH) \u2014 Automated BI & Data Migration Assessment (40+ platforms to Power BI, Microsoft Fabric, Databricks).",
+  "keywords": [
+    "dsh-plugin",
+    "mcp",
+    "deepseek-harness",
+    "bi-migration",
+    "powerbi",
+    "microsoft-fabric",
+    "databricks",
+    "tableau",
+    "alteryx",
+    "cognos"
+  ],
+  "author": "Office Solution AI Labs <admin@innovationalofficesolution.com>",
+  "license": "MIT",
+  "homepage": "https://innovationalofficesolution.com",
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.yml"
+    }
+  },
+  "peerDependencies": {
+    "@deepseek-ai/dsh": ">=0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnovationalOfficeSolution/PulseConvertDeepSeekRepo.git"
+  }
+}

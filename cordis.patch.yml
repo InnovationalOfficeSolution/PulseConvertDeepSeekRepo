@@ -1,0 +1,8 @@
+# DeepSeek Harness (DSH) Plugin Configuration for Pulse Convert
+- insert:
+    - id: pulse-convert-dsh
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: 'pulse-convert'
+        transport: 'streamable-http'
+        url: 'https://mcp.innovationalofficesolution.com/pulse-convert/'

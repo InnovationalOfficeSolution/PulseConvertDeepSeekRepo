@@ -1,5 +1,6 @@
 # Pulse Convert — DeepSeek Harness MCP Plugin (`dsh-plugin`)
 
+[![Listed on dsh-plugin.org](https://dsh-plugin.org/badges/listed.svg)](https://dsh-plugin.org/plugins/innovationalofficesolution/pulseconvertdeepseekrepo)
 [![DeepSeek Harness](https://img.shields.io/badge/DSH-Plugin-blue.svg)](https://github.com/topics/dsh-plugin)
 [![MCP Protocol](https://img.shields.io/badge/MCP-2024--11--05-brightgreen.svg)](https://modelcontextprotocol.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -23,11 +24,60 @@ When connected, DeepSeek Harness gains direct access to 4 specialized modernizat
 | **`lookup_migration_architecture`** | Returns star-schema modeling rules, semantic translation guidelines, and gotchas for any source platform. |
 | **`create_assessment_request`** | Collects enterprise project scope and schedules an in-depth technical discovery consultation with Office Solution AI Labs. |
 
-### Supported Migration Matrix (40+ Pathways)
-* **BI & Reporting:** Tableau, Qlik Sense / View, SAP BusinessObjects (WebI), IBM Cognos, MicroStrategy, SSRS, Crystal Reports, Oracle Analytics (OAC/OBIEE).
-* **ETL & Data Pipelines:** SSIS, SSAS, Alteryx, Informatica PowerCenter, SAS Data Integration.
-* **Data Warehouses & Databases:** Snowflake, Teradata, Oracle, UiPath RPA, Excel Workbooks, MS Access.
-* **Target Modernization Platforms:** Microsoft Fabric (Direct Lake, Data Factory, Lakehouse), Power BI (Tabular Import/DirectQuery), Databricks (Delta Live Tables, PySpark).
+---
+
+## 🔄 Supported Migration Pathways (40+ Accelerators)
+
+Pulse Convert provides automated migration scoping, complexity evaluation, and architectural blueprints for the following 40 enterprise pathways:
+
+### 📊 BI & Reporting to Power BI & Microsoft Fabric
+- **Tableau to Power BI Migration**
+- **Alteryx to Microsoft Fabric Migration**
+- **IBM Cognos to Power BI Migration**
+- **Crystal Reports to Power BI Migration**
+- **SAP Business Objects to Power BI Migration**
+- **MicroStrategy to Power BI Migration**
+- **QlikView to Power BI Migration**
+- **SSRS to Power BI Migration**
+- **Oracle Analytics Cloud (OAC) to Power BI**
+
+### ⚙️ ETL & Data Pipelines to Fabric & Databricks
+- **SSIS to Microsoft Fabric Migration**
+- **SSAS to Microsoft Fabric Migration**
+- **Informatica to Microsoft Fabric Migration**
+- **Informatica to Databricks Migration**
+- **Informatica to Databricks Accelerator**
+- **SAS to Microsoft Fabric Migration**
+- **SAS to Databricks Accelerator**
+- **Alteryx to Databricks Accelerator**
+- **SSIS to Databricks Accelerator**
+
+### 🏢 SAP Modernization Accelerators
+- **SAP to Fabric Data Model Accelerator**
+- **SAP ABAP to Spark Accelerator**
+- **SAP Reporting to Fabric Modernization Accelerator**
+- **SAP Data Ingestion Accelerator for Fabric**
+- **SAP BW to Databricks Accelerator**
+
+### 🗄️ Database & Cloud Data Warehouse Modernization
+- **Snowflake to Fabric**
+- **Snowflake to Databricks**
+- **Oracle to Microsoft Fabric**
+- **Oracle to Databricks Lakehouse Accelerator**
+- **SQL Server to Fabric**
+- **Azure to Microsoft Fabric Migration**
+- **AWS Redshift to Microsoft Fabric**
+- **Teradata to Databricks Accelerator**
+- **Hive to Microsoft Fabric Lakehouse**
+- **Tableau to Databricks Accelerator**
+
+### 📱 Workflow & Business Application Modernization
+- **UiPath to Power Automate Migration**
+- **UiPath to Microsoft Fabric Migration**
+- **Excel to Power Platform**
+- **Excel to Fabric**
+- **MS Access to Power Platform**
+- **MS Access to Microsoft Fabric**
 
 ---
 
